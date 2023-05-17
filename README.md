@@ -68,6 +68,9 @@
 💻
 💻
 # 💻 Tech Stack:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KambonoJeff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -95,5 +98,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=kambonojeff&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
  </br>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KambonoJeff&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
