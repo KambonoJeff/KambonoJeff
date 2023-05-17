@@ -22,13 +22,13 @@
 💻
 
 
-<img align= "left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<img align= "left" alt="Coding" width="37%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-## 💻 Laravel PHP⚡
-## 💻 React js⚡
-## 💻 SQL⚡
-## 💻 Python Django⚡
-## 💻 Laravel + Django⚡⚡
+### 💻 Laravel PHP⚡
+### 💻 React js⚡
+### 💻 SQL⚡
+### 💻 Python Django⚡
+### 💻 Laravel + Django⚡⚡
 
 <br><br>
 
