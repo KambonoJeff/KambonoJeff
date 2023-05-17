@@ -27,6 +27,8 @@
 ### 💻 Laravel PHP⚡
 ### 💻 React js⚡
 ### 💻 SQL⚡
+<br/>
+
 ### 💻 Python Django⚡
 ### 💻 Laravel + Django⚡⚡
 
