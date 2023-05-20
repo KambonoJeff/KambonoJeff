@@ -20,19 +20,12 @@
 💻
 💻
 💻
+| language           | framework      |
+| -------------- | -------------- |
+| PHP       | LARAVEL      |
+| PYTHON | DJANGO & FLASK |
+| JAVASCRIPT            | REACT NATIVE           |
 
-
-<img align= "left" alt="Coding" width="37%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
-
-### 💻 Laravel PHP⚡
-### 💻 React js⚡
-### 💻 SQL⚡
-<br/>
-
-### 💻 Python Django⚡
-### 💻 Laravel + Django⚡⚡
-
-<br><br>
 
 <h3 align="center">💫 About Me:
 </h3>
