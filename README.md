@@ -11,11 +11,11 @@
 💻
 💻
 💻
-💻💻
 💻
 💻
 💻
-💻💻
+💻
+💻
 💻
 💻
 💻
@@ -25,6 +25,8 @@
 | PHP       | LARAVEL      |
 | PYTHON | DJANGO & FLASK |
 | JAVASCRIPT            | REACT NATIVE           |
+| HTML            | BOOTSRAP           |
+| CSS            | BOOTSTRAP & TAILWIND       |
 
 
 <h3 align="center">💫 About Me:
