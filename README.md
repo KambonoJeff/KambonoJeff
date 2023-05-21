@@ -23,45 +23,26 @@
 | language           | framework      |
 | -------------- | -------------- |
 | PHP       | LARAVEL      |
-| PYTHON | DJANGO & FLASK |
 | JAVASCRIPT            | REACT NATIVE           |
+| PYTHON | DJANGO & FLASK |
+| SQL | MYSQL |
 | HTML            | BOOTSRAP           |
 | CSS            | BOOTSTRAP & TAILWIND       |
 
+💻
+💻
+💻
+💻
+💻💻
+💻
+💻
+💻
+💻💻
+💻
+💻
+💻
+💻
 
-<h3 align="center">💫 About Me:
-</h3>
- 
-
-💻
-💻
-💻
-💻
-💻💻
-💻
-💻
-💻
-💻💻
-💻
-💻
-💻
-💻
-<br><br>- 💬 Checkout my project development process <br><br>- 📫 How to reach me - kambonoj@gmail.com<br>
-</br>
-
-💻
-💻
-💻
-💻
-💻💻
-💻
-💻
-💻
-💻💻
-💻
-💻
-💻
-💻
 # 💻 Tech Stack:
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KambonoJeff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KambonoJeff&layout=donut)](https://github.com/anuraghazra/github-readme-stats)|
 | -------------- | -------------- |
@@ -77,6 +58,30 @@
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
+</br>
+
+
+💻
+💻
+💻
+💻
+💻💻
+💻
+💻
+💻
+💻💻
+💻
+💻
+💻
+💻
+
+
+## 💫 About Me:
+
+ 
+
+- 💬 Checkout my project development process <br>    
+-  📫 How to reach me - kambonoj@gmail.com<br>
 </br>
 
 💻
