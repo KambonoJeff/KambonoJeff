@@ -26,7 +26,7 @@
 | JAVASCRIPT            | REACT NATIVE           |
 | PYTHON | DJANGO & FLASK |
 | SQL | MYSQL |
-| HTML            | BOOTSRAP           |
+| DART            | FLUTTER           |
 | CSS            | BOOTSTRAP & TAILWIND       |
 
 💻
